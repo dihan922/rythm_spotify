@@ -51,12 +51,15 @@ Follow these instructions to get the Fake Ah Rythm bot up and running for your D
 
 ## Usage
 
-1. **Run the bot**
+1. **Run the bot:**
     ```bash
     python bot.py
     ```
 
-2. **Use the commands to interact with the bot and control your Spotify playback.**
+2. **Play this [playlist](https://open.spotify.com/playlist/4JqQJIevpZoz10eRFTM7pR?si=d34db9c791814d3e) on Spotify to simulate an empty song queue.**
+   - Note: Bot will work without playlist, but info about remaining time until song plays will be missing.
+
+3. **Use the commands to interact with the bot and control your Spotify playback.**
 
 ### Commands
 
