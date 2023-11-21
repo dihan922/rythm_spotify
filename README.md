@@ -32,7 +32,7 @@ Follow these instructions to get the Fake Ah Rythm bot up and running for your D
 4. **Clone the Repository:**
    ```bash
    git clone https://github.com/dihan922/fake_ah_rythm
-   cd Fake_Ah_Rythm
+   cd fake_ah_rythm
    ```
 
 ### Dependencies
