@@ -1,4 +1,4 @@
-# Fake Ah Rythm
+# Spythm
 
 A nostalgic clone of the well-known Discord music bot, Rythm. This bot simulates the behavior of Rythm by utilizing Spotify for music playback.
 
@@ -12,7 +12,7 @@ This project is inspired by the original Rythm bot, which is now defunct. Credit
 
 ## Getting Started
 
-Follow these instructions to get the Fake Ah Rythm bot up and running for your Discord server.
+Follow these instructions to get the Spythm bot up and running for your Discord server.
 
 ### Prerequisites
 
@@ -31,8 +31,8 @@ Follow these instructions to get the Fake Ah Rythm bot up and running for your D
 
 4. **Clone the Repository:**
    ```bash
-   git clone https://github.com/dihan922/fake_ah_rythm
-   cd fake_ah_rythm
+   git clone https://github.com/dihan922/spythm
+   cd spythm
    ```
 
 ### Dependencies
