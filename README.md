@@ -74,4 +74,4 @@ Follow these instructions to get the Spythm bot up and running for your Discord 
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/license/mit).
+This project is licensed under the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text).
