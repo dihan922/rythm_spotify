@@ -64,6 +64,7 @@ Follow these instructions to get the Spythm bot up and running for your Discord 
 ### Commands
 
 - `&play <song>` or `&p <song>`: Play a song from Spotify.
+- `&search <song>`: Search for a song and play a selected result.
 - `&skip`: Skip to the next track.
 - `&previous`: Skip back to the previous track.
 - `&pause`: Pause the playback.
